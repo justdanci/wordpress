@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: Theme demo data were successfully downloaded!
+Initial max execution time = 50
+Files info:
+Site URL = https://www.dmoravik.com
+Data file = /customers/6/1/2/dmoravik.com/httpd.www/wp-content/themes/artistry/importer/content.xml
+Widget file = /customers/6/1/2/dmoravik.com/httpd.www/wp-content/uploads/2019/08/demo-widgets-import-file_2019-08-29__11-08-07.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Recent Posts - Recent Posts - Imported
+Categories - Categories - Imported
+Archives - Archives - Imported
+
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - Recent Posts - Imported
+Categories - Categories - Imported
+Archives - Archives - Imported
+
+Footer Area 1 : 
+
+Logo &amp; Description - No Title - Imported
+Address - No Title - Imported
+
+Footer Area 2 : 
+
+Icon Box - Delivery Worldwide - Imported
+Icon Box - Return Policy - Imported
+Icon Box - 24 / 7 Support - Imported
+
+Footer Area 3 : 
+
+Text - Follow Us - Imported
+Social Icons - No Title - Imported
+Text - We Accept - Imported
+Image - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+
